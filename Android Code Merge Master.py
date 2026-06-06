@@ -18,7 +18,7 @@ CONFIG_FILE = "kane_ai_config.json"
 class CodeMergerUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("KANE AI - 代码合并大师 v5.0 (Markdown AI 投喂终极版)")
+        self.root.title("KANE AI - 代码合并工具 v5.0.0 (Markdown AI 投喂终极版)")
         self.root.geometry("750x680") # 增加高度适配新组件
         self.root.configure(bg='#1e1e1e')
 
