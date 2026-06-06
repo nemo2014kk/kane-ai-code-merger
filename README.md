@@ -1,3 +1,7 @@
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemo2014kk/kane-ai-code-merger?color=green)
+![GitHub license](https://img.shields.io/github/license/nemo2014kk/kane-ai-code-merger?color=blue)
+![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
+
 # 🚀 KANE AI - 安卓代码合并工具 (Code Merge Master)
 
 这是一个基于 Python 和 Tkinter 编写的图形化界面工具。它的主要作用是将整个 Android 项目（或任意代码项目）的源代码，一键提取并合并成一个 `.md` (Markdown) 文件，极大地去除了多余文件，方便开发者将代码库作为全局上下文“投喂”给 ChatGPT、Claude 等大语言模型。
